@@ -1,0 +1,44 @@
+[
+   {
+      "Address": "412 1⁄2 Loras Boulevard, Dubuque, Iowa",
+      "AppliancesIncluded": ["refrigerator", "stove", "microwave", "washer", "dryer"],
+      "UtilitiesIncluded": ["Electric", "Gas", "Water", "Sewer", "Trash", "Internet", "Lawn Care", "Snow Removal"],
+      "Units": [
+         {
+            "name": "Room 1".
+            "link": "http://airbnb.com/h/1890shistoricdistrictguesthouse"
+         },
+         {
+            "name": "Room 2".
+            "link": "http://airbnb.com/h/1890shistoricdistrictguesthouseapt2"
+         }
+      ],
+      "Pictures": []
+   },
+   {
+      "Address": "1263 Jackson Street, Dubuque, Iowa",
+      "AppliancesIncluded": ["refrigerator", "stove", "microwave", "dishwasher", "washer", "dryer"],
+      "UtilitiesIncluded": [],
+      "Units": [],
+      "Pictures": []
+   },
+   {
+      "Address": "17247 Sagevlle Road",
+      "AppliancesIncluded": ["refrigerator", "stove", "microwave", "dishwasher", "washer", "dryer"]
+      "UtilitiesIncluded": ["Electric", "Gas", "Water", "Sewer", "Trash", "Internet", "Lawn Care", "Snow Removal"]
+      "Units": [
+         {
+            "name": "South Quad"
+            "Pictures": []
+         },
+         {
+            "name": "Mom's Apartment"
+            "Pictures": []
+         },
+         {
+            "name": "Tree House"
+            "Pictures": []
+         },
+      ],
+   }
+]
